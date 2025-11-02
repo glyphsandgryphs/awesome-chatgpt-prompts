@@ -34,6 +34,10 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun exploring AI chat models!
 
+### Base 44 Prompt Library
+
+If you are building with Base 44 and need structured, field-ready prompt patterns, explore the new [Base 44 Prompt Library](base44-prompt-library.md) for schema guidance and curated examples spanning onboarding, governance, monetization, and more.
+
 **[View on prompts.chat](https://prompts.chat)**
 
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
